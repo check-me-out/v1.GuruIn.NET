@@ -1,2 +1,2 @@
 # v1.GuruIn.NET
-Source code of v1.GuruIn.NET - archive.
+Archive: Source code of first version of www.GuruIn.NET (v1.GuruIn.NET).
